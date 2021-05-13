@@ -1,0 +1,1 @@
+bible_bitexts_data_collection.ipynb is the original file used in the data generation and consolidation phase. The notebook should run properly if cells are executed in order, but some computations may be relatively long-running and not all parts of the code is well-modularized. The (truncated) modular version is stored as separate .py files in '/Code/Data Generation'.
