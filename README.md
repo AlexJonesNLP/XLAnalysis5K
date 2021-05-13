@@ -15,7 +15,7 @@ Analysis of cross-linguality in shared embedding space for 101 languages and 500
 [Pingouin](https://pingouin-stats.org) \
 [Matplotlib](https://matplotlib.org/stable/users/installing.html) \
 **Computational tools** \
-[FAISS](https://github.com/facebookresearch/faiss) \
+[Faiss](https://github.com/facebookresearch/faiss) \
 [Gudhi](http://gudhi.gforge.inria.fr/python/latest/installation.html) \
 **Typological vectors** \
 [lang2vec](https://pypi.org/project/lang2vec/) \
