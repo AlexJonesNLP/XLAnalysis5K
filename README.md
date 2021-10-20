@@ -21,3 +21,18 @@ Analysis of cross-linguality in shared embedding space for 101 languages and 500
 [lang2vec](https://pypi.org/project/lang2vec/) \
 **Misc** \
 [tqdm](https://pypi.org/project/tqdm/)
+
+## **Citation**
+
+Please cite our paper if you use code or data from this repo:
+
+```
+@misc{jones2021massively,
+      title={A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space}, 
+      author={Alex Jones and William Yang Wang and Kyle Mahowald},
+      year={2021},
+      eprint={2109.06324},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
