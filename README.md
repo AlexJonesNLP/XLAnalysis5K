@@ -27,12 +27,17 @@ Analysis of cross-linguality in shared embedding space for 101 languages and 500
 Please cite our paper if you use code or data from this repo:
 
 ```
-@misc{jones2021massively,
-      title={A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space}, 
-      author={Alex Jones and William Yang Wang and Kyle Mahowald},
-      year={2021},
-      eprint={2109.06324},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{jones-etal-2021-massively,
+    title = "A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space",
+    author = "Jones, Alexander  and
+      Wang, William Yang  and
+      Mahowald, Kyle",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.471",
+    pages = "5833--5847",
+    }
 ```
