@@ -1,4 +1,4 @@
-# crosslingual-analysis-101
+# XLAnalysis5K
 Analysis of cross-linguality in shared embedding space for 101 languages and 5000+ language pairs
 
 ## Dependencies 
