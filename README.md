@@ -8,7 +8,9 @@ The modules in [/src/Data Generation](https://github.com/AlexJonesNLP/XLAnalysis
 
 Some additional notebooks used in our experiments are provided in [/Additional Notebooks](https://github.com/AlexJonesNLP/XLAnalysis5K/tree/main/Additional%20Notebooks). These contain essentially "rough draft" code and we recommend using files from /src/Data Generation instead for rerunning experiments.
 
-<img src="isomorphism_tsne.png" width="65%">
+<p align="center">
+<img src="isomorphism_tsne.png" width="75%" />
+</p>
 
 ## Dependencies 
 
