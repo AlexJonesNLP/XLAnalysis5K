@@ -8,6 +8,8 @@ The modules in [/src/Data Generation](https://github.com/AlexJonesNLP/XLAnalysis
 
 Some additional notebooks used in our experiments are provided in [/Additional Notebooks](https://github.com/AlexJonesNLP/XLAnalysis5K/tree/main/Additional%20Notebooks). These contain essentially "rough draft" code and we recommend using files from /src/Data Generation instead for rerunning experiments.
 
+[](isomorphism_tsne.png)
+
 ## Dependencies 
 
 **Core libraries** \
