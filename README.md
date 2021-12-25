@@ -22,7 +22,7 @@ Analysis of cross-linguality in shared embedding space for 101 languages and 500
 **Misc** \
 [tqdm](https://pypi.org/project/tqdm/)
 
-## **Citation**
+## Citation
 
 Please cite our paper if you use code or data from this repo:
 
